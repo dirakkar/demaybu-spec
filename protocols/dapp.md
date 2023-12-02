@@ -6,6 +6,10 @@ description: >-
 
 # dApp
 
+## Authentication
+
+Authentication in decentralized applications is carried out using cryptographic signatures, allowing to avoid disclosing to the server any critical client information. This method also ensures an elevated level of security, as it enables clients to verify the authenticity of data through a cryptographic signature.
+
 ## Lazy execution
 
 Lazy execution is the processing of client requests over a certain period of time. This timeframe, during which requests can be stored or processed, may vary depending on the specific application's needs. Requests stored in the storage can be processed by external services according to their own conditions. The user can utilize these service-executors, in whom they trust to obtain the final state of the data, or in certain cases, determine this state independently.
