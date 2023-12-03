@@ -8,7 +8,7 @@ description: >-
 
 ## Authentication
 
-Authentication in decentralized applications is carried out using cryptographic signatures, allowing to avoid disclosing to the server any critical client information. This method also ensures an elevated level of security, as it enables clients to verify the authenticity of data through a cryptographic signature.
+Authentication in decentralized applications is accomplished through cryptographic signatures, allowing the avoidance of disclosing critical client data to the server. This method also ensures high data integrity, as users can verify the authenticity of the final data state through cryptographic signatures.
 
 ## Lazy execution
 
